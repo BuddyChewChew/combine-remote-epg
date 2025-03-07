@@ -6,9 +6,8 @@ epg_urls = [
     "https://tvpass.org/epg.xml",
     "https://bit.ly/moj-epg",
     "https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml",
-    "http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw",
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml",
-    "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 ]
 
 # Output file
