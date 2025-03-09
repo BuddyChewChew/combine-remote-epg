@@ -1,7 +1,6 @@
 A COMBINED LIST OF EPGS FROM THE WEB 
 
-Link: https://raw.githubusercontent.com/BuddyChewChew/combine-remote-epg/refs/heads/main/combined_epg.xml
-
+Link: [https://bit.ly/buddychewepg](https://bit.ly/buddychewepg)
 EPGS USED:
 - https://tvpass.org/epg.xml
 - https://bit.ly/moj-epg
