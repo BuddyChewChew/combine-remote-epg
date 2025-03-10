@@ -7,8 +7,7 @@ epg_urls = [
     "https://bit.ly/moj-epg",
     "https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml",
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml",
-    "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
-    "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
+    "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 ]
 
 # Output file
