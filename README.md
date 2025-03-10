@@ -1,8 +1,8 @@
 ## A COMBINED LIST OF EPGS FROM THE WEB 
 
-- Link: [https://bit.ly/buddychewepg](https://bit.ly/buddychewepg)
+- Short Link: [https://bit.ly/buddychewepg](https://bit.ly/buddychewepg)
 - Or
-- https://raw.githubusercontent.com/BuddyChewChew/combine-remote-epg/refs/heads/main/combined_epg.xml
+- Full Url: https://raw.githubusercontent.com/BuddyChewChew/combine-remote-epg/refs/heads/main/combined_epg.xml
 
 ## EPGS USED
     "https://tvpass.org/epg.xml"
