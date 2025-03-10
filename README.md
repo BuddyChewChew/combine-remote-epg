@@ -1,7 +1,7 @@
 ## A COMBINED LIST OF EPGS FROM THE WEB 
 
 - Link: [https://bit.ly/buddychewepg](https://bit.ly/buddychewepg)
-or
+- 
 - https://raw.githubusercontent.com/BuddyChewChew/combine-remote-epg/refs/heads/main/combined_epg.xml
 
 ## EPGS USED
