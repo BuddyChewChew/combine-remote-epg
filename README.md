@@ -10,9 +10,6 @@
 - https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz
 - https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml
 
-    
-Playlist: [http://m3u4u.com/m3u/476rnm7j37t48z2qnekg](http://m3u4u.com/m3u/476rnm7j37t48z2qnekg)
-
 
 ## 💥SHAMELESS◼️PLUG◼️OUR SHOP◼️CHECK IT OUT💥
 Designs available on more than just shirts. Dozens of products in the store. Check them out.
