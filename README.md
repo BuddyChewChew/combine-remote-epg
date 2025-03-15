@@ -1,5 +1,5 @@
 ## A COMBINED LIST OF EPGS FROM THE WEB 
-- Url: https://raw.githubusercontent.com/BuddyChewChew/combine-remote-epg/refs/heads/main/combined_epg.xml
+- https://raw.githubusercontent.com/BuddyChewChew/combine-remote-epg/refs/heads/main/combined_epg.xml
 
 ## EPGS USED
 - https://tvpass.org/epg.xml
