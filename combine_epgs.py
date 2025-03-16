@@ -6,7 +6,6 @@ epg_urls = [
     "https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/tvpass-epg.xml.gz",
     "https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz",
     "https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/daddylive-epg.xml.gz",
-    "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml",
     "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz",
